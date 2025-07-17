@@ -20,21 +20,28 @@
 ###  Weather App  
 A React-based app using Weather API to show 7-day forecast and hourly updates.  
 **Tech:** React, Axios, WeatherAPI  
-[🔗 View Project](https://github.com/your-username/weather-app)
+[🔗 View Project](https://github.com/Kavya75340/Weather_App.git)
 
 ---
 
 ###  Course Management System  
 A full-stack app to add, explore, and delete courses.  
 **Tech:** React + Spring Boot + MySQL  
-[🔗 View Project](https://github.com/your-username/course-app)
+[🔗 View Project](https://github.com/Kavya75340/Course_App.git)
+
+---
+
+###  Blog Management System  
+A full-stack app to add, view all blogs, and view blog.  
+**Tech:** React + Spring Boot + MySQL  
+[🔗 View Project](https://github.com/Kavya75340/Blog_App.git)
 
 ---
 
 ###  AI Health Assistant (Hackathon Project)  
 An AI-powered assistant for hospitals to diagnose symptoms, suggest medicines, and manage appointments.  
 **Tech:** React, Flask, Spring Boot, MySQL, NLP, Google Maps API  
-[🔗 View Project](https://github.com/your-username/ai-health-assistant)
+[🔗 View Project](https://github.com/Kavya75340/CureCoders.git)
 
 ---
 
