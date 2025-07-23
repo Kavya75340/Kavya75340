@@ -58,7 +58,7 @@ AI-powered assistant for hospitals to diagnose symptoms, suggest medicines, and 
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/kavyavarshney75)
+[LinkedIn](https://linkedin.com/in/kavyavarshney75)
 [![Gmail](https://img.shields.io/badge/Gmail-kvvarshney7534@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kvvarshney7534@gmail.com)
 
 ---
