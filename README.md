@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Kavya Varshney!
+#  Hi, I'm Kavya Varshney!
 
 Welcome to my GitHub profile!  
 I’m a passionate learner, creator, and aspiring full-stack developer. I love to build impactful projects, solve challenging problems, and explore new technologies.
