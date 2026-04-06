@@ -5,17 +5,17 @@ I’m a passionate learner, creator, and aspiring full-stack developer. I love t
 
 ---
 
-## 🚀 About Me
+##  About Me
 
-- 🎓 **BCA Student** | Future Software Engineer
-- 💡 Always learning: Java, React, Spring Boot & AI tools
-- 💻 Building projects to bridge ideas and technology
-- 🌱 Currently leveling up my DSA and backend skills
-- 🎯 Motto: *"Learning by building, building to grow."*
+-  **BCA Student** | Future Software Engineer
+-  Always learning: Java, React, Spring Boot & AI tools
+-  Building projects to bridge ideas and technology
+-  Currently leveling up my DSA and backend skills
+-  Motto: *"Learning by building, building to grow."*
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
@@ -30,33 +30,33 @@ I’m a passionate learner, creator, and aspiring full-stack developer. I love t
 
 ---
 
-## 💼 Projects
+##  Projects
 
-### 🌤️ [Weather App](https://github.com/Kavya75340/Weather_App)
+###  [Weather App](https://github.com/Kavya75340/Weather_App)
 A React-based application providing 7-day forecast and hourly weather updates using Weather API.
 
-### 📚 [Course Management System](https://github.com/Kavya75340/Course_App)
+###  [Course Management System](https://github.com/Kavya75340/Course_App)
 Full-stack app for adding, exploring, and deleting courses.  
 *Tech:* React, Spring Boot, MySQL
 
-### ✍️ [Blog Management System](https://github.com/Kavya75340/Blog_App)
+###  [Blog Management System](https://github.com/Kavya75340/Blog_App)
 A platform to add and view blogs with full CRUD features.  
 *Tech:* React, Spring Boot, MySQL
 
-### 🤖 [AI Health Assistant (Hackathon Project)](https://github.com/Kavya75340/CureCoders)
+###  [AI Health Assistant (Hackathon Project)](https://github.com/Kavya75340/CureCoders)
 AI-powered assistant for hospitals to diagnose symptoms, suggest medicines, and manage appointments.  
 *Tech:* React, Spring Boot, MySQL, NLP, Google Maps API
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 ![Kavya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kavya75340&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kavya75340&layout=compact&theme=radical)
 
 ---
 
-## 📫 Connect With Me
+##  Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/-linkedin.com/in/kavyavarshney75-blue?logo=linkedin&logoColor=white&style=flat-square)](https://linkedin.com/in/kavyavarshney75)
 [![Gmail](https://img.shields.io/badge/-kvvarshney7534@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kvvarshney7534@gmail.com)
